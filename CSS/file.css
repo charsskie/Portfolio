@@ -1188,3 +1188,8 @@ section,
 .starter-section {
   /* Add your styles here */
 }
+@media(max-width: 1199p){
+.header{
+  left: -100%;
+}
+}
